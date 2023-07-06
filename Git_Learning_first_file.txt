@@ -5,9 +5,5 @@ Trying the branching first time
 
 trying the forking first time from viji .....
 
-
-change from branch 2-->-->
-=======
 Merging from branch 3-->-->-->
 Merging from branch 3-->-->-->
-
