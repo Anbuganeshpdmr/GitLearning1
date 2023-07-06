@@ -1,7 +1,9 @@
 Git learning tutorial
-
 2nd Line added
 
 Trying the branching first time
 
 trying the forking first time from viji .....
+
+Merging from branch 3-->-->-->
+Merging from branch 3-->-->-->
